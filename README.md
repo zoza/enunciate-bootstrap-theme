@@ -2,7 +2,37 @@
 
 A theme for REST based services using enunciate rest API documentation generation.
 
-![Overview](//screenshot.png)
+## Theme Preview
+
+![Screenshot](https://raw.githubusercontent.com/terrancesnyder/enunciate-bootstrap-theme/master/screenshot.png)
+
+## Streamlined Navigation
+
+The theme includes navigation to core packages in your project, grouping common POJO/REST objects
+together for easy navigation and isolation.
+
+![Navigation](https://raw.githubusercontent.com/terrancesnyder/enunciate-bootstrap-theme/master/nav.png)
+
+## Type & Element Search
+
+Browse and search all types and elements in your project, including searching descriptions using client
+side autocomplete. Quickly and easily navigate and explore your APIs.
+
+![Navigation](https://raw.githubusercontent.com/terrancesnyder/enunciate-bootstrap-theme/master/search.png)
+
+## Operations
+
+See the operations and request/responses along with query parameters from your javadocs in a single glance.
+
+![Navigation](https://raw.githubusercontent.com/terrancesnyder/enunciate-bootstrap-theme/master/operations.png)
+
+## Object/Type Detail
+
+Get in-depth information about your types and elements, not only the types information but polymorphic
+inheretence and type hierarchy information is included. In addition, easily see where this type is used
+by other types and by method/services to get a 360 degree view of how this type is used and where it is used.
+
+![Navigation](https://raw.githubusercontent.com/terrancesnyder/enunciate-bootstrap-theme/master/type.png)
 
 ## Background
 

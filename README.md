@@ -29,7 +29,7 @@ See the operations and request/responses along with query parameters from your j
 ## Object/Type Detail
 
 Get in-depth information about your types and elements, not only the types information but polymorphic
-inheretence and type hierarchy information is included. In addition, easily see where this type is used
+inheritance and type hierarchy information is included. In addition, easily see where this type is used
 by other types and by method/services to get a 360 degree view of how this type is used and where it is used.
 
 ![Navigation](https://raw.githubusercontent.com/terrancesnyder/enunciate-bootstrap-theme/master/type.png)
